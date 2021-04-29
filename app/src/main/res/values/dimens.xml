@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_text_title">16sp</dimen>
+    <dimen name="size_text_label">12sp</dimen>
+    <dimen name="size_padding_default">16dp</dimen>
+    <dimen name="size_padding_half">8dp</dimen>
+    <dimen name="size_icon_default">24dp</dimen>
+    <dimen name="size_margin_half">4dp</dimen>
+    <dimen name="size_avatar_image">48dp</dimen>
+</resources>

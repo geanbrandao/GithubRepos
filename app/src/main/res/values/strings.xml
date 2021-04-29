@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Github Repos</string>
+    <string name="item_repo_watchers">Watchers</string>
+</resources>
